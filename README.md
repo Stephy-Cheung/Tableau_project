@@ -17,7 +17,7 @@ Since the society is still deeply affected by the current Covid-19 situation, th
 
 From the past performance, although the number of listing room is lower from 62K homes to around 10K homes after the new home-sharing law enforced by Japan Government in early [1], Airbnb recovered quickly and the number of usage in Airbnb rockets until the end of 2019 as the new home-sharing law requires the home owner registrate their properties. It makes Airbnb a more reliable services for travelers. The number of reviews experienced a large drop in 2020 and increase slowly again due to Covid-19 and the release of the inbound travel restrictions. We discovered there is a needs for inbound travel when the pandemic situation eases gradually. 
 
-It is also interesting to note that there are peaks of the review number every year in April - May (mark in Red) and November - December (mark in Blue) before the pandemic. It matches the Golden week holidays in April - May in Japan, when Japanese people travels. 
+The travel pattern before pandemic also reflects the needs of local travel pattern as we can see that there are two peaks of the review number every year in April - May (mark in Red) and November - December (mark in Blue). It which matches the Golden week holidays in April - May in Japan, when Japanese people love to travel. 
 
 <img src="Airbnb_in_Japan\Tableau02.png" width="1000">
 
