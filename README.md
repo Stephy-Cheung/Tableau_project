@@ -22,7 +22,7 @@ The travel pattern before pandemic also reflects the needs of local travel patte
 <img src="Airbnb_in_Japan\Tableau02.png" width="1000">
 
 ## Results 
-In conclusion, since 2021 is still deeply affected by Covid-19 and international travel is restricted, we would suggest operational should focus in inbound travel markets. Marketing efforts can be spent on boosting the local needs during the Japan public holidays and also advising the home owner focus on hygiene to provide a safe environment for travelers. It is also important to keep an eye on the pandemic situation and review the opeartional strategies from time to time according to the fast-changing pandemic situation.
+In conclusion, since 2021 is still deeply affected by Covid-19 and international travel is restricted, we would suggest the focus operation should be in inbound travel markets. Marketing efforts can be spent on boosting the local needs during the Japan public holidays and also providing guidelines for home owner on hygiene to provide a safe environment for travelers. It is also important to keep an eye on the pandemic situation and review the operational strategies from time to time according to the fast-changing pandemic situation.
 
 ## Reference
 [1] Nearly 80 Percent of Japan's Airbnbs Were Just Removed: 
