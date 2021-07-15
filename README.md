@@ -11,7 +11,7 @@ Majority of the listing rooms are entire home or apartment (70.48%), followed by
 In terms of the pricing in the future one year, rental pricing for the entire home or apartment and private rooms are more sensitive to the external enviornment and local events -Tokyo Olympic Games. 
 Since the society is still deeply affected by the current Covid-19 situation, the rooms are charing in April to June, and rockets in July as the Tokyo Olympic Games take place. 
 
-<img src="Airbnb_in_Japan\Tableau01.png" width="600">
+<img src="Airbnb_in_Japan\Tableau01.png" width="1000">
 
 ## Insights from past performance
 
@@ -19,7 +19,7 @@ From the past performance, although the number of listing room is lower from 62K
 
 It is also interesting to note that there are peaks of the review number every year in April - May (mark in Red) and November - December (mark in Blue) before the pandemic. It matches the Golden week holidays in April - May in Japan, when Japanese people travels. 
 
-<img src="Airbnb_in_Japan\Tableau02.png" width="600">
+<img src="Airbnb_in_Japan\Tableau02.png" width="1000">
 
 ## Results 
 In conclusion, since 2021 is still deeply affected by Covid-19 and international travel is restricted, we would suggest operational should focus in inbound travel markets. Marketing efforts can be spent on boosting the local needs during the Japan public holidays and also advising the home owner focus on hygiene to provide a safe environment for travelers. It is also important to keep an eye on the pandemic situation and review the opeartional strategies from time to time according to the fast-changing pandemic situation.
